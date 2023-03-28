@@ -1,5 +1,5 @@
 ---
-description: Work Chair
+description: Work Chair jeff
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Aeron Chair by Herman Miller
