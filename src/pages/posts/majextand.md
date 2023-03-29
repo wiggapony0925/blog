@@ -6,7 +6,7 @@ title: Majextand
 createdAt: 1679637675890
 updatedAt: 1679639345601
 tags:
-  - Computing
+  - My Enviroment
 heroImage: /posts/majextand_thumbnail.jpg
 slug: majextand
 ---

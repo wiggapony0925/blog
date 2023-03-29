@@ -7,7 +7,7 @@ title: MacBook Air (M2)
 createdAt: 1663220312000
 updatedAt: 1663744987940
 tags:
-  - Computing
+  - My Enviroment
 heroImage: /posts/macbook-air_thumbnail.jpg
 ---
 
