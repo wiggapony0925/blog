@@ -6,7 +6,7 @@ title: Education
 createdAt: 1663636049020
 updatedAt: 1663636078085
 tags:
-  - My life
+  - My Life
 heroImage: /posts/elecom-laptop-stand_thumbnail.jpg
 slug: elecom-laptop-stand
 ---
