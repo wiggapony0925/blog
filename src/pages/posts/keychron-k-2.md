@@ -6,7 +6,7 @@ title: Keychron K2
 createdAt: 1632100083000
 updatedAt: 1663636112618
 tags:
-  - Computing
+  - My Enviroment
 heroImage: /posts/keychron-k-2_thumbnail.jpg
 slug: keychron-k-2
 ---
