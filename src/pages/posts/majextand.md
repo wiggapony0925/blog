@@ -1,18 +1,22 @@
 ---
-description: Laptop stand
-public: true
+description: CCRI Volcanic Emission Impacts on Climate Systems, Agriculture and Society
+public: true 
 layout: ../../layouts/BlogPost.astro
-title: Majextand
+title: NASA Intership
 createdAt: 1679637675890
 updatedAt: 1679639345601
 tags:
   - My Enviroment
-heroImage: /posts/majextand_thumbnail.jpg
+heroImage: posts/majextand_thumbnail.jpg
 slug: majextand
 ---
 
 
-I had been using [a laptop stand by an unknown manufacturer](/posts/aiyujiwu-laptop-stand) for my M1 MacBook Pro, but it wasn't very comfortable as it didn't elevate the laptop to a sufficient height. When I upgraded to a new M2 MacBook Pro, I decided to try a different laptop stand called [Majextand](https://amzn.to/40d54nI), which has received many positive reviews on YouTube in Japan.
+I am delighted to announce that I have been granted the opportunity to participate in the NASA Internship Program for the summer of 2023. As a passionate individual in the field of Computer Science and Data Analysis, I am honored to have been selected for this esteemed internship.
+
+With diligence and perseverance, I have developed my skills in these areas over the years, and I am eager to apply them towards contributing to the CCRI Volcanic Emission Impacts on Climate Systems, Agriculture, and Society project. I am confident that this internship will provide me with invaluable knowledge and experience, and I look forward to collaborating with the distinguished professionals at NASA to make meaningful contributions towards this initiative.
+
+To learn more about this exciting opportunity, please visit the NASA Internship website for the CCRI Volcanic Emission Impacts on Climate Systems, Agriculture, and Society project [here]ihttps://www.giss.nasa.gov/edu/ccri/2022-2023.html).
 
 ![majexstand_01](/posts/majextand_majexstand-01.jpg)
 
