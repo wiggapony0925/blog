@@ -1,17 +1,4 @@
-# Takuya's curated list of the tech
-
-A curated list of the tech I use, built with Astro and Tailwind CSS
-
-https://uses.craftz.dog/
-
-## Tutorial
-
-Watch how I built this website on YouTube:
-
-[![tutorial thumbnail](./docs/tutorial-thumb.jpg)](https://youtu.be/3_JE76PKBWE)
-
-<https://youtu.be/3_JE76PKBWE>
-
+# Jeffrey's Blog
 ## Stack
 
 - [Astro](https://astro.build/) - Static Website Framework
